@@ -1,0 +1,94 @@
+body{
+    font-family: 'Lora', serif;      
+}
+.menuContainer{
+    border: 2px solid rgb(70, 45, 0);
+    display: inline-block;
+    height: 600px;
+    width: 400px;
+    background-color: rgb(122, 0, 0);
+    margin-right: 10%;
+    float: left;
+}
+
+.block{
+    display: inline-block;
+    text-align: center;
+    font-family: 'Lora', serif;
+    margin-left: 13%;
+    float: left;
+}
+
+
+.menuItem{
+    height: 10%;
+    width: 99.8%;
+    border: .5px solid #dddddd;
+    text-align: left;
+}
+
+.menuItemHeader{
+    width: 50%;
+    height: 100%;
+    font-size: 2em;
+    color: rgb(197, 181, 33);
+    display: inline-block;
+    margin: 0%;
+    height: 100%;   
+}
+
+.orderItemHeader{
+    width: 45%;
+    height: 100%;
+    font-size: 1.35em;
+    color: rgb(197, 181, 33);
+    display: inline-block;
+    margin: 0%;
+    height: 100%;   
+}
+
+.priceMenu{
+    display: inline-block;
+    width: 30%;
+    height: 100%;
+    font-size: 1.5em;
+    color: #f1f1f1; 
+}
+
+.priceOrder{
+    display: inline-block;
+    width: 30%;
+    height: 100%;
+    font-size: 1.15em;
+    color: #f1f1f1; 
+}
+
+.orderListContainer{
+    border: 2px solid rgb(70, 45, 0);
+    display: inline-block;
+    height: 450px;
+    width: 300px;
+    background-color: rgb(122, 0, 0);
+    float: left;
+}
+
+.removeBtn{
+    font-size: .7em;
+}
+
+.totalPrice{
+    height: 49%;
+    width: 99.8%;
+    border-bottom:.5px solid #dddddd;
+    font-size: 1.5em;
+    color: #f1f1f1;
+    text-align: center;
+}
+
+.lastDiv{
+    width: 99.8%;
+    border-left: .5px solid #dddddd;
+    border-top: .5px solid #dddddd;
+    border-right: .5px solid #dddddd;
+    height: 20%;    
+}
