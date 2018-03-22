@@ -1,5 +1,5 @@
 # React-Restaurant-Menu
-A small app that I made using React JS, that is basically a menu and an order list for a japanese restaurant. This is my first React JS project and I made it in order to get familiar with how React JS works.
+A small app that I made using React JS, that is basically a menu and an order list for a Japanese restaurant. This is my first React JS project and I made it in order to get familiar with how React JS works.
 ## How to initialize the app on your local machine
 Make sure you have Node JS installed on your machine. You can grab it here -> https://nodejs.org/en/
 After you've cloned the repository and have made sure that you have Node JS on your machine, open up Command Prompt and cd into the folder of the repository.
